@@ -14,7 +14,7 @@ function setup() {
  btn.mousePressed(()=>{
    xv=x.value()
     if(xv==1){
-        var url="https://www.youtube.com/watch?v=9q3_8N4YZRI"
+        var url="https://samuraivai2007.github.io/idk3/"
         window.location.href=url
 }else if(xv==2){
     var url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
